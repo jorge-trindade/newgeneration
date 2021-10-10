@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: gcr.io/endless-bank-326515/myfirstapp:2.0
+        image: gcr.io/sodium-woodland-326515/myfirstapp:2.0
         env:
         - name: MESSAGE
           value: "Rick Morty"
